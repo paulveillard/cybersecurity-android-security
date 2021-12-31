@@ -48,6 +48,8 @@
 27. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 28. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
 
+**[`^        back to top        ^`](#)**
+
 ### Static Analysis Tools
 
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
@@ -77,12 +79,16 @@
 26. [Mobile Audit](https://github.com/mpast/mobileAudit) - Web application for performing Static Analysis and detecting malware in Android APKs.
 27. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
+**[`^        back to top        ^`](#)**
+
 ### App Vulnerability Scanners
 
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
 5. ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
+
+**[`^        back to top        ^`](#)**
 
 ### Dynamic Analysis Tools
 
@@ -123,6 +129,8 @@
 39. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 40. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 41. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis~~
+
+**[`^        back to top        ^`](#)**
 
 ### Reverse Engineering
 
@@ -166,6 +174,8 @@
 42. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
 43. [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
 
+**[`^        back to top        ^`](#)**
+
 ### Fuzz Testing
 
 1. [IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)
@@ -174,6 +184,8 @@
 4. [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
 5. [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
 6. [AndroFuzz](https://github.com/jonmetz/AndroFuzz)
+
+**[`^        back to top        ^`](#)**
 
 ### App Repackaging Detectors
 
@@ -189,6 +201,8 @@
 6. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
 7. [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 8. [APK Downloader](https://apkcombo.com/apk-downloader/) Online Sevrice to download APK from Playstore for specific Android Device Configuration
+
+**[`^        back to top        ^`](#)**
 
 ### Misc Tools
 
@@ -206,6 +220,8 @@
 14. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 15. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
+**[`^        back to top        ^`](#)**
+
 ### Vulnerable Applications for practice
 
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
@@ -215,6 +231,8 @@
 5. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
 6. [Insecureshop](https://github.com/optiv/insecureshop)
 1. [Oversecured Vulnerable Android App (OVAA)](https://github.com/oversecured/ovaa)
+
+**[`^        back to top        ^`](#)**
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 
@@ -237,6 +255,8 @@
 5. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room which contains well categorised technical reading material about mobile penetration testing, mobile malware, mobile forensics and all kind of mobile security related topics~~
 
+**[`^        back to top        ^`](#)**
+
 ## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs
 
 ### List
@@ -249,6 +269,8 @@
 6. [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 7. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 8. [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://source.android.com/security/reports/Google_Android_Security_PHA_classifications.pdf)
+
+**[`^        back to top        ^`](#)**
 
 ### Malware
 
@@ -264,6 +286,8 @@
 11. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
 7. ~~[Admire](http://admire.necst.it/)~~
 
+**[`^        back to top        ^`](#)**
+
 ### Bounty Programs
 
 1. [Android Security Reward Program](https://www.google.com/about/appsecurity/android-rewards/)
@@ -276,6 +300,9 @@
 ## Contributing
 
 Your contributions are always welcome!
+
+
+**[`^        back to top        ^`](#)**
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
